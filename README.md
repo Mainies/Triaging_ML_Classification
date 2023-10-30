@@ -1,4 +1,4 @@
-# ED_final_repo
+# Triaging ML Classification
 
 This repo is a collection of my Machine Learning Analysis and bias review as part of a recent university course.
 
